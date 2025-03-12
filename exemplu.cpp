@@ -102,7 +102,7 @@ int main() {
 				
 				
 
-//salut ce faci?
+
 	
 
 
